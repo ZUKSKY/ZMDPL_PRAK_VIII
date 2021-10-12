@@ -1,0 +1,5 @@
+Definisi umum dari prototype adalah sebuah skema rancangan sistem yang membentuk model dan standar ukuran atau skalabilitas 
+yang akan dikerjakan nantinya. Setiap pengembang maupun pengguna dapat berinteraksi langsung dengan model tersebut tanpa harus membuat produk nyatanya.
+
+Sistem prototipe yang dibangun, menyesuaikan dengan kebutuhan awal development software untuk mengetahui beberapa fitur dan fungsi yang telah didefinisikan sebelumnya. 
+Sehingga mampu mengetahui kesalahan lebih awal sebelum mengimplementasikan dan merilis produk secara keseluruhan.
